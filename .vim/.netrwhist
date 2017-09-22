@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/pauldeblicker/.ssh/config'
+let g:netrw_dirhist_2='/Users/pauldeblicker/Projects/dttdev/app-store/app/theme/lib/component'
+let g:netrw_dirhist_3='/Users/pauldeblicker/Projects/dttdev/app-store/app/theme/lib/component/layout'
+let g:netrw_dirhist_4='/Users/pauldeblicker/Projects/dttdev/app-store/app/theme/lib/component'
+let g:netrw_dirhist_5='/Users/pauldeblicker/Projects/dttdev/app-store/app/theme/lib/component/layout'
+let g:netrw_dirhist_6='/Users/pauldeblicker/Projects/dttdev/app-core/report'
+let g:netrw_dirhist_7='/Users/pauldeblicker/Projects/dttdev/app-store/app/theme/lib/component/layout'
+let g:netrw_dirhist_8='/Users/pauldeblicker/Projects/dttdev/app-store/client/theme/lib'
